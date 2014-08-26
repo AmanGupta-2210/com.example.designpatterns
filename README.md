@@ -8,3 +8,4 @@ This Repository contains various design patterns implemented in **Java**.
 - Abstract Factory Design Pattern
 - Singleton Class Design Pattern
 - Builder Class Design Pattern
+- Prototype Design Pattern
