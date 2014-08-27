@@ -16,6 +16,7 @@ This Repository contains various design patterns implemented in **Java**.
 - Decorator Design Pattern
 - Facade Design Pattern
 - Fly Weight Design Pattern
+- Proxy Design Pattern
 
 Author : *Aman Gupta*
 ---------------------
