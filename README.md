@@ -13,3 +13,4 @@ This Repository contains various design patterns implemented in **Java**.
 - Bridge Design Pattern
 - Filter/Criteria Design Pattern
 - Composite Design Pattern
+- Decorator Design Pattern
