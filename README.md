@@ -2,7 +2,8 @@ Design Patterns Demo
 ==========================
 Repository : com.example.designpatterns
 ------------------------------------------
-
+Author : *Aman Gupta*
+---------------------
 This Repository contains various design patterns implemented in **Java**.
 - Factory Design Pattern
 - Abstract Factory Design Pattern
@@ -15,3 +16,4 @@ This Repository contains various design patterns implemented in **Java**.
 - Composite Design Pattern
 - Decorator Design Pattern
 - Facade Design Pattern
+- Fly Weight Design Pattern
