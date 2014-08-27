@@ -12,3 +12,4 @@ This Repository contains various design patterns implemented in **Java**.
 - Adapter Design Pattern
 - Bridge Design Pattern
 - Filter Design Pattern
+- Composite Design Pattern
