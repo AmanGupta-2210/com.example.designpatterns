@@ -14,3 +14,4 @@ This Repository contains various design patterns implemented in **Java**.
 - Filter/Criteria Design Pattern
 - Composite Design Pattern
 - Decorator Design Pattern
+- Facade Design Pattern
