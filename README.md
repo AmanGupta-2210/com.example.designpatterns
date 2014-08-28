@@ -18,6 +18,7 @@ This Repository contains various design patterns implemented in **Java**.
 - Fly Weight Design Pattern
 - Proxy Design Pattern
 - Chain of Responsiblity Design Pattern
+- Command Design Pattern
 
 Author : *Aman Gupta*
 ---------------------
