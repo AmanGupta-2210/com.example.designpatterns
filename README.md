@@ -19,6 +19,7 @@ This Repository contains various design patterns implemented in **Java**.
 - Proxy Design Pattern
 - Chain of Responsiblity Design Pattern
 - Command Design Pattern
+- Interpreter Design Pattern
 
 Author : *Aman Gupta*
 ---------------------
