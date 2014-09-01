@@ -20,6 +20,7 @@ This Repository contains various design patterns implemented in **Java**.
 - Chain of Responsiblity Design Pattern
 - Command Design Pattern
 - Interpreter Design Pattern
+- Iterator Design Pattern
 
 Author : *Aman Gupta*
 ---------------------
