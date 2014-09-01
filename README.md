@@ -21,6 +21,7 @@ This Repository contains various design patterns implemented in **Java**.
 - Command Design Pattern
 - Interpreter Design Pattern
 - Iterator Design Pattern
+- Memento Design Pattern
 
 Author : *Aman Gupta*
 ---------------------
