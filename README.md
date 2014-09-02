@@ -23,6 +23,7 @@ This Repository contains various design patterns implemented in **Java**.
 - Iterator Design Pattern
 - Memento Design Pattern
 - Observer Design Pattern
+- State Design Pattern
 
 Author : *Aman Gupta*
 ---------------------
