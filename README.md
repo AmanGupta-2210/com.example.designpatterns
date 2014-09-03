@@ -25,6 +25,7 @@ This Repository contains various design patterns implemented in **Java**.
 - Observer Design Pattern
 - State Design Pattern
 - Null Object Design Pattern
+- Strategy Design Pattern
 
 Author : *Aman Gupta*
 ---------------------
