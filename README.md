@@ -24,6 +24,7 @@ This Repository contains various design patterns implemented in **Java**.
 - Memento Design Pattern
 - Observer Design Pattern
 - State Design Pattern
+- Null Object Design Pattern
 
 Author : *Aman Gupta*
 ---------------------
